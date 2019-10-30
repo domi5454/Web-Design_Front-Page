@@ -10,3 +10,7 @@ body {
   background-size: cover;
   -o-background-size: cover;
 }
+
+.container {
+   background-color: #6f42c1;
+}
