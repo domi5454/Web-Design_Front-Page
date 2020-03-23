@@ -1,4 +1,2 @@
-# Web-Design-Challenge
-NU DS BC Web design homework
-
-Initial web-design front page example generated for Northwestern Univ. Data Science Boot Camp Project
+# Web-Design-Example
+Short example Web-design front page  generated utilizing BootStrap HTML and CSS templates.
